@@ -27,7 +27,8 @@ Once satisfied with a generated image, click the download/save option on that im
 Record a short note on responsible use — avoid generating images of real identifiable people without consent, respect copyright when using outputs commercially, and always disclose when an image was AI-generated.
 ## SAMPLE OUTPUT SCREEN
 The screen below shows a sample text-to-image generator, with the prompt entered and four generated results ready to compare and save (shown here as placeholder thumbnails).
-<img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/78871ae6-6967-46e3-bf4e-ce8c2fc79581" />
+<img width="1338" height="1087" alt="694386092-b6bdff08-f21d-47df-b7fc-8bb93c55b6c3" src="https://github.com/user-attachments/assets/5e3432df-4606-4a1c-9c69-37c1a7a4e6c2" />
+
 ## OUTPUT
 A set of AI-generated images produced from a written prompt, refined across two to three prompt iterations, with the final chosen image saved for use in the report.
 ## RESULT
